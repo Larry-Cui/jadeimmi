@@ -5,7 +5,7 @@ copyright: Copyright &copy; 2023 Jade Sunrise Law <br> 版权所有 &copy; 2023 
 nav:
   - 政策快讯: blog/index.md
   - 关于本站:
-      - What is it for?: index.md
+      - 免责声明: index.md
       - 联系方式: about/contact.md
 
 theme:

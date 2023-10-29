@@ -14,9 +14,7 @@
 
 ## 律师名片
 
-!!! tip "Jade Sunrise Law"
-	Kathy Zhang<br>
-	Jade Sunrise Law<br>
+!!! tip "Kathy Zhang - Jade Sunrise Law"
 	**地址:** 500-1110 Centre Street NE Calgary, AB T2E 2R2 <br>
 	**电话:** [1 (403) 456-3977](tel:4034563977)<br>
 	**传真:** 1(844) 272-3932<br>
