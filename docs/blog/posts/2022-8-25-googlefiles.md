@@ -8,6 +8,8 @@ tags:
 
 Google Drive is a powerful app to store files of pdf, word, excel and other formats. If you create a copy link from google drive and embed the link into your webpage directly, the default setting is that when user click on the download link, browser will open the file in google doc viewer in a new tab.
 
+<!-- more -->
+
 It's a handy solution when it comes to pdf files, since you have to view the pdf files any way. But for Word, Excel and other formats, it's sometimes annoying because google doc viewer may not be your first choice app to open and edit files. You have to download the files in google doc viewer window again and then use an other softwares to open them.
 
 The default download link is like this:
