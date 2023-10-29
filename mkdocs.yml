@@ -1,0 +1,108 @@
+site_name: 顶誉移民律师
+site_url: https://jadesunriselaw.netlify.app/
+copyright: Copyright &copy; 2023 Jade Sunrise Law
+
+nav:
+  - 政策快讯:
+      - Accounts: news/accounts.md
+  - 关于本站:
+      - What is it for?: index.md
+      - Contact Us: about/contact.md
+
+theme:
+  name: material
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      # scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  language: zh
+
+  logo: jade_logo.png
+  favicon: jade_logo.png
+
+  features:
+    - navigation.instant # without fully reloading the page, fast loading function
+    - navigation.tracking
+    - navigation.tabs #top-level sections are rendered in a menu layer below the header
+    # - navigation.tabs.sticky
+    # - navigation.sections
+    - navigation.path
+    # - navigation.indexes ##enable it if you have an introduction to top level
+    - navigation.top
+    - header.autohide
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+    - content.code.copy
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://github.com/@
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/@
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/@
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:info@jadesunriselaw.com
+  generator: false
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_css:
+  - assets/css/styled-table.css
+  # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+
+extra_javascript:
+  - assets/js/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
