@@ -1,5 +1,5 @@
 site_name: 顶誉移民律师
-site_url: https://jadesunriselaw.netlify.app/
+site_url: https://jadeimmigration.netlify.app/
 copyright: Copyright &copy; 2023 Jade Sunrise Law
 
 nav:
@@ -7,7 +7,9 @@ nav:
       - Accounts: news/accounts.md
   - 关于本站:
       - What is it for?: index.md
-      - Contact Us: about/contact.md
+      - 联系方式: about/contact.md
+  - 博客文章:
+      - 视频链接: blog/posts/
 
 theme:
   name: material
@@ -77,6 +79,9 @@ extra:
 plugins:
   - search
   - tags
+  - blog:
+      blog_dir: blog
+      blog_toc: true
 
 markdown_extensions:
   - admonition
