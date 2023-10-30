@@ -1,6 +1,6 @@
-site_name: 顶誉移民律师
+site_name: 顶誉律师行 - 移民资讯网
 site_url: https://jadeimmigration.netlify.app/
-copyright: Copyright &copy; 2023 Jade Sunrise Law <br> 版权所有 &copy; 2023 顶誉律师行
+copyright: 版权所有 &copy; 2023 顶誉律师行
 
 nav:
   - 政策快讯: blog/index.md
@@ -63,10 +63,10 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://github.com/@
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@jadesunriselawab
     - icon: fontawesome/brands/facebook
-      link: https://facebook.com/@
+      link: https://www.facebook.com/kathyzhq?mibextid=LQQJ4d
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/@
     - icon: fontawesome/solid/paper-plane
@@ -113,7 +113,7 @@ plugins:
       authors: true
       authors_file: "{blog}/.authors.yml"
       draft: false
-      draft_on_serve: true
+      draft_on_serve: false
       draft_if_future_date: false
 
 markdown_extensions:
@@ -138,6 +138,7 @@ markdown_extensions:
 extra_css:
   - assets/css/styled-table.css
   # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+  - assets/css/coverpic.css
 
 extra_javascript:
   - assets/js/mathjax.js

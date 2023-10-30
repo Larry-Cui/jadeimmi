@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Create Google File Dowanload Links in A Different Way
+title: Create Google File Download Links in A Different Way
 date: 2022-08-25
 categories:
   - HTML+CSS
+draft: true
 ---
 
 Google Drive is a powerful app to store files of pdf, word, excel and other formats. If you create a copy link from google drive and embed the link into your webpage directly, the default setting is that when user click on the download link, browser will open the file in google doc viewer in a new tab.
