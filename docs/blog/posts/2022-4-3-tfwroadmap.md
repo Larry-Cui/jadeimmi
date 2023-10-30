@@ -9,13 +9,13 @@ draft: false
 
 <!-- ![cover pic](../img/6.jpg) -->
 <style>
-	.coverpic-container{
-	background-image: url("../../../img/7.jpg");
+	.coverpic-container.date20220403 {
+	background-image: url("/blog/img/7.jpg");
 	}
 </style>
 
 <div class="coverWrapper">
-<div class="coverpic-container" >
+<div class="coverpic-container date20220403" >
 	<p class="title">海外劳工项目出新政</p>
 	<p>应对用工荒，</p>
 	<p>利好蓝领工种！</p>
@@ -26,7 +26,7 @@ draft: false
 
 加拿大的临时海外劳工项目「Temporary Foreign Worker (TFW) Program）」旨在吸收海外劳工，填补加拿大本地岗位空缺，同时也给海外劳工提供了移民加拿大的路径。因此一经推出，该政策 就受到社会各方面的热烈响应。
 
-疫情后加拿大经济复苏迅猛，到2022年2月新增约33.7万就业岗位，由于本地人手不足，导致很多公司和企事业单位出现了「用工荒」。因此，今天加拿大政府宣布路线图「Workforce Solutions Road Map」，对海外劳工项目做出了重大调整。
+疫情后加拿大经济复苏迅猛，到2022年2月新增约33.7万就业岗位，由于本地人手不足，导致很多公司和企事业单位出现了「用工荒」。因应现状，今天加拿大政府宣布劳工路线图「Workforce Solutions Road Map」，对海外劳工项目做出了重大改进。
 
 <!-- more -->
 
@@ -61,6 +61,10 @@ draft: false
     - 制造业：81,775 岗位
 
 - [x] 2021年批准的全球人才和高端工种岗位约2.8万个，占全年LMIA审批数量的21%。
+
+## 原文链接
+
+1. Government of Canada announces Workforce Solutions Road Map – further changes to the Temporary Foreign Worker Program to address labour shortages across Canada [(<ins>https://www.canada.ca/en/employment-social-development/news/2022/04/government-of-canada-announces-workforce-solutions-road-map--further-changes-to-the-temporary-foreign-worker-program-to-address-labour-shortages-ac.html</ins>)](https://www.canada.ca/en/employment-social-development/news/2022/04/government-of-canada-announces-workforce-solutions-road-map--further-changes-to-the-temporary-foreign-worker-program-to-address-labour-shortages-ac.html){:target="_blank"}
 
 
 
