@@ -22,7 +22,7 @@
 
 ## 办公地址
 
-按空格键显示地图
+按空格键或刷新页面，显示地图
 
 <div id="map" style="height: 320px"></div>
 <script src="../../assets/js/leaf-map.js"></script>
