@@ -78,7 +78,6 @@ plugins:
   - tags
   - blog:
       enabled: true
-      # blog_title: 新闻快讯
       blog_dir: blog
       blog_toc: true
       post_dir: "{blog}/posts"
