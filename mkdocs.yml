@@ -3,7 +3,7 @@ site_url: https://jadeimmigration.netlify.app/
 copyright: 版权所有 &copy; 2023 顶誉律师行
 
 nav:
-  - 新闻早报:
+  - 新闻早知道:
       - blog/index.md
   - 关于本站:
       - 免责声明: index.md
