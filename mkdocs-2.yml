@@ -3,8 +3,7 @@ site_url: https://jadeimmigration.netlify.app/
 copyright: 版权所有 &copy; 2023 顶誉律师行
 
 nav:
-  - 新闻早报:
-      - blog/index.md
+  - 新闻早报: blog/index.md
   - 关于本站:
       - 免责声明: index.md
       - 联系方式: about/contact.md
@@ -46,10 +45,11 @@ theme:
   favicon: jade_logo.png
 
   features:
-    - navigation.sections
-    - navigation.tabs
     - navigation.instant # without fully reloading the page, fast loading function
     - navigation.tracking
+    - navigation.tabs #top-level sections are rendered in a menu layer below the header
+    # - navigation.tabs.sticky
+    - navigation.sections
     - navigation.path
     # - navigation.indexes ##enable it if you have an introduction to top level
     - navigation.top
@@ -76,8 +76,7 @@ extra:
 plugins:
   - search
   - tags
-  - blog:
-      draft_on_serve: false
+  - blog
 
 markdown_extensions:
   - admonition
