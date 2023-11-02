@@ -52,7 +52,7 @@ draft: false
 
 	目前, 海外劳工项目的LMIA审批流程中，针对旅游餐饮等行业的低工种岗位，如果行业失业率达到或超过6%，则LMIA申请将自动驳回，不予审批。现在正式取消该规定。
 
-## ⚠️ 背景信息
+## 📝 背景信息
 
 - [x] 2021年三季度，加拿大的“用工荒”达到新高度。当年11月，如下行业存在的用工缺口为：
     - 旅游餐饮：130,070 岗位
@@ -62,7 +62,7 @@ draft: false
 
 - [x] 2021年批准的全球人才和高端工种岗位约2.8万个，占全年LMIA审批数量的21%。
 
-## 原文链接
+## 🔗 原文链接
 
 1. Government of Canada announces Workforce Solutions Road Map – further changes to the Temporary Foreign Worker Program to address labour shortages across Canada [(<ins>https://www.canada.ca/en/employment-social-development/news/2022/04/government-of-canada-announces-workforce-solutions-road-map--further-changes-to-the-temporary-foreign-worker-program-to-address-labour-shortages-ac.html</ins>)](https://www.canada.ca/en/employment-social-development/news/2022/04/government-of-canada-announces-workforce-solutions-road-map--further-changes-to-the-temporary-foreign-worker-program-to-address-labour-shortages-ac.html){:target="_blank"}
 
