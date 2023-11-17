@@ -7,6 +7,7 @@ nav:
       - blog/index.md
   - 阿省小镇投资移民:
       - 入门条件: RES/grid.md
+      - 投资承诺协议: RES/bpa.md
   - 关于本站:
       - 免责声明: index.md
       - 联系方式: about/contact.md
@@ -104,6 +105,8 @@ extra_css:
   - assets/css/styled-table.css
   # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
   - assets/css/coverpic.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
+  - assets/css/icon.css
 
 extra_javascript:
   - assets/js/mathjax.js
