@@ -45,7 +45,7 @@
 
 <p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 家庭作坊式生意，如在民宅提供住宿餐饮、从事商业或制造</p>
 
-<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 涉黄产业</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 色情产业</p>
 
 
 ## 收购项目的特别限制

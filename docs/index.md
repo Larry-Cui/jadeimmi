@@ -1,10 +1,34 @@
+<link
+	rel="stylesheet"
+	href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+	integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+	crossorigin=""
+/>
 
-本网站的内容或信息，仅供日常分享交流，不构成本律师行或任何律师个人针对普通或特定客户提供的专业意见，包括但不限于法律、财务、医疗或其他任何形式的意见或建议。用户（“您”）对本网站上的任何信息或材料的使用完全由您自己决定和承担风险。
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+<script
+	src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+	integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+	crossorigin=""
+></script>
 
-本网站可能包括第三方提供的内容或链接到第三方网站。我们不对这些第三方来源的准确性、合法性或内容进行认可、保证或承担责任。您对任何第三方内容或网站的使用受其各自的条款和条件约束。
+## 律师名片
 
-通过使用本网站，您承认已阅读、理解并同意本免责声明以上所述的条款和条件。如果您不同本免责声明的任何内容，请务必不要访问、使用本网站。
+!!! tip "Kathy Zhang - Jade Sunrise Law"
+	**地址:** 500-1110 Centre Street NE Calgary, AB T2E 2R2 <br>
+	**电话:** [1 (403) 456-3977](tel:4034563977)<br>
+	**传真:** 1(844) 272-3932<br>
+	**Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
 
+## 办公地址
 
-!!! tip "顶誉律师行（Jade Sunrise Law）的官方网站已正式发布!"
-    想要访问官网的用户，请移步至[www.jadesunriselaw.com](https://www.jadesunriselaw.com){:target="\_blank"}。
+按空格键或刷新页面，显示地图
+
+<div id="map" style="height: 320px"></div>
+<script src="../../assets/js/leaf-map.js"></script>
+
+<script> 
+document.addEventListener("keydown", (e)=>{
+	// console.log(e.keyCode);
+	if (e.keyCode == 32 ) document.location.reload()});
+</script>

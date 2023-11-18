@@ -1,5 +1,8 @@
 # 项目介绍
 
+<a href="https://lh3.googleusercontent.com/pw/ADCreHcB1iwKCI_I9n4IHjz8r8nuoXxWY9BG0MSyxUsT6J7ahD8ruoE5LaT2f3PLR_yTKmuCWJF18dQe7VF5_CPog4KZzTKT7uSndudsDINAGXcLZifNGnA=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ADCreHcB1iwKCI_I9n4IHjz8r8nuoXxWY9BG0MSyxUsT6J7ahD8ruoE5LaT2f3PLR_yTKmuCWJF18dQe7VF5_CPog4KZzTKT7uSndudsDINAGXcLZifNGnA=w600-h315-p-k" style="width: 100%"/> </a>
+
+
 小镇投资移民项目是阿省省提名项目的一种类型。愿意去阿尔伯塔省小城镇投资开办企业或收购现有企业的企业家或公司高管，有机会通过这个渠道获得省提名，进而取得PR身份。
 
 ## 优缺点概述

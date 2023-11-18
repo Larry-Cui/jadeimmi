@@ -9,9 +9,9 @@ nav:
       - 项目介绍: RES/intro.md
       - 入门条件: RES/grid.md
       - 投资承诺协议: RES/bpa.md
-  - 关于本站:
-      - 免责声明: index.md
-      - 联系方式: about/contact.md
+  - 预约咨询:
+      - 联系方式: index.md
+      - 免责声明: about/disclaimer.md
 
 theme:
   name: material
