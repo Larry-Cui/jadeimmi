@@ -6,6 +6,7 @@ nav:
   - 新闻早知道:
       - blog/index.md
   - 阿省小镇投资移民:
+      - 项目介绍: RES/intro.md
       - 入门条件: RES/grid.md
       - 投资承诺协议: RES/bpa.md
   - 关于本站:

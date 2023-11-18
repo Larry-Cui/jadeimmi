@@ -37,26 +37,26 @@
 
 ## 禁止投资的行业
 
-<i class="fa-solid fa-circle-xmark"></i> 无附加值的行业，包括私人借贷、支票贴现、二手货物买卖
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 无附加值的行业，包括私人借贷、支票贴现、二手货物买卖</p>
 
-<i class="fa-solid fa-circle-xmark"></i> 被动投资行业，包括房地产投资、租赁、开发，房产中介、保险中介，投币式洗衣房、洗车行等
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 被动投资行业，包括房地产投资、租赁、开发，房产中介、保险中介，投币式洗衣房、洗车行等</p>
 
-<i class="fa-solid fa-circle-xmark"></i> 季节性行业
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 季节性行业</p>
 
-<i class="fa-solid fa-circle-xmark"></i> 家庭作坊式生意，如在民宅提供住宿餐饮、从事商业或制造
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 家庭作坊式生意，如在民宅提供住宿餐饮、从事商业或制造</p>
 
-<i class="fa-solid fa-circle-xmark"></i> 涉黄产业
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 涉黄产业</p>
 
 
 ## 收购项目的特别限制
 
 如果申请人是收购现有项目方式进行投资，需特别注意以下项目收购不符合投资条件：
 
-<i class="fa-solid fa-circle-xmark"></i> 现有项目为**亲属持有**，申请人从亲属处收购
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 现有项目为<b>亲属持有</b> ，申请人从亲属处收购</p>
 
-<i class="fa-solid fa-circle-xmark"></i> 现有项目在过往**4年**内，其业主是小镇投资移民项目的申请人
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 现有项目在过往<b>4年</b>内，其业主是小镇投资移民项目的申请人</p>
 
-<i class="fa-solid fa-circle-xmark"></i> 在提交本项目省提名前**3年**内，发生过业主的变动
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 在提交本项目省提名前<b>3年</b>内，发生过业主的变动</p>
 
 
 
