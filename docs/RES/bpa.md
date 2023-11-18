@@ -1,6 +1,6 @@
 # 投资承诺协议有哪些要求？
 
-在省政府出具项目申请批复和工签支持信之前，申请人必须与省政府签署一份「投资承诺协议」（Business Performance Agreement），本文介绍这份协议具体有哪些要求。
+在省政府出具项目商业申请批准书和205(a)工签支持信之前，申请人必须与省政府签署一份「投资承诺协议」（Business Performance Agreement），本文介绍这份协议具体有哪些要求。
 
 ## 签约时间
 
@@ -39,7 +39,7 @@
 
 <p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 无附加值的行业，包括私人借贷、支票贴现、二手货物买卖</p>
 
-<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 被动投资行业，包括房地产投资、租赁、开发，房产中介、保险中介，投币式洗衣房、洗车行等</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 被动投资行业，包括地产投资、租赁、开发，房产中介、保险中介，投币式洗衣房、洗车行等</p>
 
 <p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 季节性行业</p>
 

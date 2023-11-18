@@ -87,11 +87,13 @@
 
 如果申请人有如下情况之一的，属于不符合申请条件。无论申请人是否具备入门条件或加分条件，都不能申请本项目。
 
-- [x] 申请人有一项省提名仍在有效期内
-- [x] 申请人之前的省提名申请被拒，且未到可以重新申请的日期
-- [x] 申请人被移民局或海关要求遣返
-- [x] 申请人的难民申请或遣返案件正在联邦复议、诉讼程序阶段
-- [x] 申请人在加拿大但不具备合法身份
-- [x] 申请人拟投资的项目在[禁止列表](/res/bpa/#_9){:target="_blank"}上
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 申请人有一项省提名仍在有效期内</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 申请人之前的省提名申请被拒，且未到可以重新申请的日期</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 申请人被移民局或海关要求遣返</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 申请人的难民申请或遣返案件正在联邦复议、诉讼程序阶段</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 申请人在加拿大但不具备合法身份</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 申请人拟投资的项目在<a href="/res/bpa/#_9" target="_blank">禁止列表</a>上</p>
+
+
 
 
