@@ -1,5 +1,7 @@
 # 投资承诺协议有哪些要求？
 
+<a href="https://lh3.googleusercontent.com/pw/ADCreHcecrGZaUU-S7yiDh9zbMpMste3j2J_30GCmTbJrE19yI3Vc5uzAbtH0PpYqBr1NfCG5HUzWlIrGKqxXlwbXwJNZs7olwjpagc3oNbbS8DuedBsHME=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ADCreHcecrGZaUU-S7yiDh9zbMpMste3j2J_30GCmTbJrE19yI3Vc5uzAbtH0PpYqBr1NfCG5HUzWlIrGKqxXlwbXwJNZs7olwjpagc3oNbbS8DuedBsHME=w600-h315-p-k" style="width: 100%"/> </a>
+
 在省政府出具项目商业申请批准书和205(a)工签支持信之前，申请人必须与省政府签署一份「投资承诺协议」（Business Performance Agreement），本文介绍这份协议具体有哪些要求。
 
 ## 签约时间
