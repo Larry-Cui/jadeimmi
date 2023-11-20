@@ -7,4 +7,4 @@
 
 我们在阿省地图上标注了全部52个小镇的位置，请点击查看各小镇的简介。
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Tiv9zZGZgACi-8weTVUHkljX_HVfKHc&ehbc=2E312F&noprof=1" width="100%" height="768"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Tiv9zZGZgACi-8weTVUHkljX_HVfKHc&ehbc=2E312F&noprof=1" width="100%" height="600"></iframe>
