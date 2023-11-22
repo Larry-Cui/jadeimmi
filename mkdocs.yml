@@ -5,11 +5,13 @@ copyright: 版权所有 &copy; 2023 顶誉律师行
 nav:
   - 新闻早知道:
       - blog/index.md
-  - 阿省小镇投资移民:
-      - 项目介绍: RES/intro.md
-      - 入门条件: RES/grid.md
-      - 投资承诺协议: RES/bpa.md
-      - 小镇简介: RES/communities.md
+  - 阿省投资移民:
+      - 小镇投资移民:
+          - 项目介绍: RES/intro.md
+          - 入门条件: RES/grid.md
+          - 投资承诺协议: RES/bpa.md
+          - 小镇简介: RES/communities.md
+      - 毕业生创业移民: FGES/intro.md
   - 专栏文章精选:
       - 配偶团聚移民申请和上诉: articles/spouse-sponsor.md
   - 预约咨询:
