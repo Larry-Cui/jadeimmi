@@ -49,7 +49,7 @@
 
 申请人拿到社区支持信和社区背书确认的商业计划概要后，就可以向省政府提交意向书（Expression of Interest，“EOI”）。意向书通过网上方式提交，网址：
 
-[AAIP online Portal](https://www.alberta.ca/aaip-rural-entrepreneur-stream-how-to-apply#:~:text=the%20AAIP%20portal-,AAIP%20online%20portal,-Before%20entering%20your){.md-button .md-button--primary} 
+[AAIP 申请入口](https://www.alberta.ca/aaip-rural-entrepreneur-stream-how-to-apply#:~:text=the%20AAIP%20portal-,AAIP%20online%20portal,-Before%20entering%20your){.md-button .md-button--primary} 
 
 意向书阶段，需要准备提交的文件主要包括：
 
