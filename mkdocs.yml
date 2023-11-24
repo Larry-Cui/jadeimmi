@@ -13,9 +13,12 @@ nav:
           - 小镇简介: RES/communities.md
       - 毕业生创业移民: FGES/intro.md
   - 阿省技术移民:
-      - 普通技术项目(机遇类):
+      - 普通项目(机遇类):
           - 项目介绍: AOS/intro.md
           - 合格申请人条件: AOS/eligibility.md
+      - EE项目:
+          - 项目介绍: AEE/intro.md
+          - 资格条件: AEE/eligibility.md
   - 专栏文章精选:
       - 配偶团聚移民申请和上诉: articles/spouse-sponsor.md
   - 预约咨询:
