@@ -1,4 +1,6 @@
 
+<a href="https://lh3.googleusercontent.com/pw/ADCreHdXBsVtxncUUnvqkb7sDSoYZf3___jdnrhSsYp1-kHITjNoMM0PRNYyxevzWwUJeh7FNuGhOHcYhCliFzOCElIlIKt8rSolf7FrV747eSS0e6Rxo8k=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ADCreHdXBsVtxncUUnvqkb7sDSoYZf3___jdnrhSsYp1-kHITjNoMM0PRNYyxevzWwUJeh7FNuGhOHcYhCliFzOCElIlIKt8rSolf7FrV747eSS0e6Rxo8k=w600-h315-p-k" style="width: 100%"/> </a>
+
 普通技术类省提名项目，在艾尔伯塔省的官方名称叫[阿省机遇类提名，“Alberta Opportunity Stream”](https://www.alberta.ca/aaip-alberta-opportunity-stream-eligibility){:target="_blank"}。该项目的申请人需为取得工签，受雇于阿省雇主并实际在本地工作生活的各行业海外劳工。
 
 根据官网披露的数据，2023年艾尔伯塔省约1万名省提名名额中，有将近半数分配给了本项目申请人，还有近五分之二给到[省EE项目](/AEE/intro){:target="_blank"}申请人。鉴于如此充沛的名额，任何考察阿省机会的申请人，只要条件符合，都应当**优先考虑本项目**，并顺带去博一个省EE项目的机会。

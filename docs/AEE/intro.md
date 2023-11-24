@@ -1,5 +1,7 @@
 # 阿省EE项目
 
+<a href="https://lh3.googleusercontent.com/pw/ADCreHdj5psFdmpP1frl22oM4_RMq9dJMdRNCK6t-BTufwW7NRhL2JWlwcrmm8TjW9-Pczl_ZvSglvMpuXbdJZINafF_icJ71deX_y-4-W_X9x5dKU-4H5k=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ADCreHdj5psFdmpP1frl22oM4_RMq9dJMdRNCK6t-BTufwW7NRhL2JWlwcrmm8TjW9-Pczl_ZvSglvMpuXbdJZINafF_icJ71deX_y-4-W_X9x5dKU-4H5k=w600-h315-p-k" style="width: 100%"/> </a>
+
 EE，全名叫快速通道（「 Express Entry 」），目的是给符合联邦技术移民条件（包括联邦技工、联邦贸易和加拿大经验类三项）或某些省提名条件的PR申请人提供一个快速审理、快速获批的途径。从获邀申请到PR批准，EE通道的审批周期仅为 5 - 8 个月，远远快过其他任何项目。由于进入EE的条件比较宽松，导致排队申请审批的人数极为庞大（俗称「 EE 池」），因此联邦移民部采用打分制度，分数越高的申请人越快得到邀请，其PR申请会优先得到审批。
 
 加拿大自2015年实行EE制度以来，分配到EE渠道的移民名额逐年走高，从目前官方给出的数据看，2024到2026年，每年约有 11 - 12 万EE名额，占全年移民名额的五分之一。
