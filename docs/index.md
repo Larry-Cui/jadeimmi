@@ -12,18 +12,72 @@
 	crossorigin=""
 ></script> -->
 
+<style>
 
+img.avatar {
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+	width: 120px;
+}
 
+.undersign-container {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	/* flex-direction: column; */
+}
 
+.text-wrapper {
+	padding: 0 1rem;
+	color: #777;
+}
 
+@media (max-width: 700px) {
+.undersign-container {
+	align-items: flex-start;
+}
+.text-wrapper {
+	padding-right: 0;
+} 
+img.avatar {
+	width: 80px;
+	translate: 0 1rem;
+}
+}
+</style>
 
-## 律师名片
+## 预约咨询通道
 
-!!! tip "Kathy Zhang - Jade Sunrise Law"
-	**地址:** 500-1110 Centre Street NE Calgary, AB T2E 2R2 <br>
-	**电话:** [1 (403) 456-3977](tel:4034563977)<br>
-	**传真:** 1(844) 272-3932<br>
-	**Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
+请添加如下微信二维码，预约律师咨询。
+
+## 张律师致辞
+
+各位客户和广大网友，大家好！
+
+我们是一家以移民法、商法和婚姻家庭法见长的卡尔加里本地律师事务所。
+
+在多年的移民法律服务过程中，我们深知除了极少数的幸运儿，大部分移民申请人都会经历一个漫长而煎熬的申请过程，而申请人是否能遇到一家专业、尽职的中介机构为移民之旅保驾护航，不仅仅决定了移民过程是否顺遂和高效，更有可能是成功与失败的天壤之别。
+
+我们希望通过扎实的业务和真诚的服务，为申请人量身定制最合适的移民方案，助力您在移民之路上行稳致远，顺利抵达梦想的彼岸。
+
+<div class="undersign-container">
+<img class="avatar" src="/assets/img/kathy.jpg" alt="Avatar">
+
+<div class="text-wrapper">
+<p>张红倩律师（Kathy Zhang）</p>
+
+<p>张律师有中加两国顶级法学院的教育经历，在国内有近十年的法官经验，在加拿大亦有十有多年的律师执业经验。独特的教育背景和工作经历，让张律师能深刻理解国内客户诉求，提供精准法律服务。张律师擅长业务领域是移民法、商法和家庭法。</p>
+</div>
+</div>
+
+## 本所联系方式
+
+顶誉律师行 （Jade Sunrise Law）
+
+**地址:** 500-1110 Centre Street NE Calgary, AB T2E 2R2 <br>
+**电话:** [1 (403) 456-3977](tel:14034563977)<br>
+**传真:** [1(844) 272-3932](tel:18442723932)<br>
+**Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
 
 
 ## 官网改版发布

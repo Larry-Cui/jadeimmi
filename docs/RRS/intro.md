@@ -1,4 +1,7 @@
 
+<a href="https://lh3.googleusercontent.com/pw/ADCreHdGFDKSwIa8K9gz3Gs8mm1TtGE1m4dxKR6eNFsqwEn4W1DoQozV5NFubkkoWlcg3kEIUPDXAAONy6GFZ4SeK2J8DinF-Kmgo7k62YumIK3FPMwKqJ0=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/ADCreHdGFDKSwIa8K9gz3Gs8mm1TtGE1m4dxKR6eNFsqwEn4W1DoQozV5NFubkkoWlcg3kEIUPDXAAONy6GFZ4SeK2J8DinF-Kmgo7k62YumIK3FPMwKqJ0=w600-h315-p-k" style="width: 100%"/> </a>
+
+
 阿省乡村振兴项目可以归类到雇主担保类的技术移民项目。该项目允许符合条件的乡村社区，推荐在本社区企业工作或取得聘用函的海外员工，直接向省政府申请省提名。
 
 ## 项目名额分配
