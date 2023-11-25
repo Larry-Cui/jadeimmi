@@ -24,10 +24,11 @@ EE，全名叫快速通道（「 Express Entry 」），目的是给符合联邦
 
 ## 优缺点概述
 
-- [x] 快！普通省提名周期按三年计，EE省提名两级审批为 5 + 8 = 13 个月
+- [x] 快！普通省提名周期按三年计，EE省提名两级审批为 2 + 8 = 10 个月
 - [x] 一步到位，无需先工签入境工作为前提
 
-<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 结果缺乏可预见性，作为唯一移民方案风险大，仅可辅助或叠加其他方案使用</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 语言要求高，需要达到雅思6分</p>
+<p class="custom-list"><i class="fa-solid fa-circle-xmark"></i> 申请人能否最终获邀存在不确定性，作为唯一移民方案风险大，仅可辅助或叠加其他方案使用</p>
 
 ## 提名名额分布
 
@@ -79,7 +80,7 @@ EE，全名叫快速通道（「 Express Entry 」），目的是给符合联邦
 - [顾问委托表](https://drive.google.com/file/d/1dhimSJKEafKSHIwTv8Rk56RMCTZpTBhL/view?usp=sharing){:target="_blank"}
 - [配偶信息披露同意函](https://drive.google.com/file/d/1SLG-VXPzuCS8QBbP1fkIJQlBFclrCjzh/view?usp=sharing){:target="_blank"}
 
-EE省提名的申请费是500加元，目前的审理周期为5个月左右。
+EE省提名的申请费是500加元，目前的审理周期为**2个月**左右。
 
 ### 批复
 
