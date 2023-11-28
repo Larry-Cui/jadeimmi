@@ -18,6 +18,11 @@ img.avatar {
 	color: #777;
 }
 
+.kathySayHello {
+	background: #E6E6FA44;
+	padding: 0.5rem;
+}
+
 @media (max-width: 700px) {
 .undersign-container {
 	align-items: flex-start;
@@ -36,15 +41,23 @@ img.avatar {
 
 请添加如下微信二维码，预约律师咨询。
 
+ <!-- <img src="https://lh3.googleusercontent.com/pw/ADCreHe0K9_l3jNAaogd4gRddcWLQ2RLgWkRUnwuSJrPckqJVP6hsW2UD2JPCC-Wygvn7RwtFgb__fOjeepgZQipsI2QOryxCxr_wyeX6CVWFcnFVEpWHlg=w600-h315-p-k" style="max-width: 250px;"/> -->
+
+ <!-- ![img](QR-Kathy.jpg) -->
+
+ <img src="qr_kathy.jpg" style="max-width: 250px"/>
+
 ## 张律师致辞
 
-各位客户和广大网友，大家好！
+<div class="kathySayHello">
+<p>各位客户和广大网友，大家好！</p>
 
-我们是一家以移民法、商法和婚姻家庭法见长的卡尔加里本地律师事务所。
+<p>我们是一家以移民法、商法和婚姻家庭法见长的卡尔加里本地律师事务所。</p>
 
-在多年的移民法律服务过程中，我们深知除了极少数的幸运儿，大部分移民申请人都会经历一个漫长而煎熬的申请过程，而申请人是否能遇到一家专业、尽职的中介机构为移民之旅保驾护航，不仅仅决定了移民过程是否顺遂和高效，更有可能是成功与失败的天壤之别。
+<p>在多年的移民法律服务过程中，我们深知除了极少数的幸运儿，大部分移民申请人都会经历一个漫长而煎熬的申请过程，而申请人是否能遇到一家专业、尽职的中介机构为移民之旅保驾护航，不仅仅决定了移民过程是否顺遂和高效，更有可能是成功与失败的天壤之别。</p>
 
-我们希望通过扎实的业务和真诚的服务，为申请人量身定制最合适的移民方案，助力您在移民之路上行稳致远，顺利抵达梦想的彼岸。
+<p>我们希望通过扎实的业务和真诚的服务，为申请人量身定制最适合的移民方案，助力您在移民之路上行稳致远，顺利抵达梦想的彼岸。</p>
+</div>
 
 <div class="undersign-container">
 <img class="avatar" src="/assets/img/kathy.jpg" alt="Avatar">
@@ -52,7 +65,7 @@ img.avatar {
 <div class="text-wrapper">
 <p>张红倩律师（Kathy Zhang）</p>
 
-<p>张律师有中加两国顶级法学院的教育经历，在国内有近十年的法官经验，在加拿大亦有十有多年的律师执业经验。独特的教育背景和工作经历，让张律师能深刻理解国内客户诉求，提供精准法律服务。张律师擅长业务领域是移民法、商法和家庭法。</p>
+<p>张律师有中加两国顶级法学院的教育经历，在国内有近十年的法官经验，在加拿大亦有十多年的律师执业经验。独特的教育背景和工作经历，让张律师能深刻理解国内客户诉求，提供精准法律服务。张律师擅长业务领域是移民法、商法和家庭法。</p>
 </div>
 </div>
 
