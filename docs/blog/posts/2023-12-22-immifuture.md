@@ -47,7 +47,7 @@ draft: false
         <!-- <th>2021.10</th> -->
         <th>2022.4</th>
         <th>2022.10</th>
-        <th>2023.5</th>
+        <!-- <th>2023.5</th> -->
         <th>2023.7</th>
     </tr>
     </thead>
@@ -57,7 +57,7 @@ draft: false
         <!-- <td>18</td> -->
         <td>27</td>
         <td>14</td>
-        <td>18</td>
+        <!-- <td>18</td> -->
         <td>17</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ draft: false
         <!-- <td>6</td> -->
         <td>22</td>
         <td>15</td>
-        <td>10</td>
+        <!-- <td>10</td> -->
         <td>9</td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ draft: false
         <!-- <td>6</td> -->
         <td>9</td>
         <td>19</td>
-        <td>5</td>
+        <!-- <td>5</td> -->
         <td>5</td>
     </tr>
     <tr>
@@ -81,7 +81,7 @@ draft: false
         <!-- <td>18</td> -->
         <td>19</td>
         <td>16</td>
-        <td>14</td>
+        <!-- <td>14</td> -->
         <td>13</td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ draft: false
 <table class="styled-table">
     <thead>
     <tr>
-        <th>审理项目</th>
+        <th>项目</th>
         <!-- <th>2021.10</th> -->
         <th>2022.4</th>
         <th>2022.10</th>
@@ -140,8 +140,8 @@ draft: false
 <table class="styled-table">
     <thead>
     <tr>
-        <th>移民类别</th>
-        <th>2020</th>
+        <th>类别</th>
+        <!-- <th>2020</th> -->
         <th>2021</th>
         <th>2022</th>
         <th>2023(不完全)</th>
@@ -149,36 +149,36 @@ draft: false
     </thead>
     <tbody>
     <tr>
-        <td>经济类(投资和技术)</td>
-        <td>106,352</td>
+        <td>经济类</td>
+        <!-- <td>106,352</td> -->
         <td>252,991</td>
         <td>255,686</td>
         <td>104,440</td>
     </tr>
     <tr>
-        <td>家庭团聚类</td>			
-        <td>49,296</td>
+        <td>团聚类</td>			
+        <!-- <td>49,296</td> -->
         <td>81,440</td>
         <td>97,357</td>
         <td>41,372</td>
     </tr>
         <tr>
-        <td>难民人道类</td>			
-        <td>25,493</td>
+        <td>难民类</td>			
+        <!-- <td>25,493</td> -->
         <td>60,237</td>
         <td>74,348</td>
         <td>22,973</td>
     </tr>
         <tr>
         <td>其它类</td>			
-        <td>3,453</td>
+        <!-- <td>3,453</td> -->
         <td>11,377</td>
         <td>10,200</td>
         <td>5,960</td>
     </tr>
         <tr>
         <td>总计</td>			
-        <td>184,594</td>
+        <!-- <td>184,594</td> -->
         <td>406,045</td>
         <td>437,591</td>
         <td>174,745</td>
