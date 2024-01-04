@@ -48,6 +48,7 @@ draft: false
 
 按上述规定，上调工资至通行工资水平不属于重大调整事项，对于已经取得 LMIA 批文的岗位/员工而言，无需重新申请 LMIA，也无需向 ESDC 报告。
 
-## 🔗 原文链接
+## 🔗 参考链接
 
 1. October 26, 2023，Employment and Social Development Canada: [Government of Canada extends Workforce Solutions Road Map and introduces new wage requirements under the Temporary Foreign Worker Program](https://www.canada.ca/en/employment-social-development/news/2023/10/government-of-canada-extends-workforce-solutions-road-map-and-introduces-new-wage-requirements-under-the-temporary-foreign-worker-program.html){:target="\_blank"}
+2. 读者如需了解 LMIA 的规定，请参阅[此文](../../articles/lmia.md){:target="\_blank"}。

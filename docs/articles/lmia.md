@@ -179,6 +179,6 @@ ESDC 要求雇主在提交 LMIA 申请，雇佣外籍员工前，要先尝试积
     </tbody>
 </table>
 
-## 官网链接
+## 🔗 官网链接
 
 关于 LMIA 的种类和相关要求，请参考官网 [Hire a Temporary Foreign Worker with a Labour Market Impact Assessment](https://www.canada.ca/en/employment-social-development/services/foreign-workers.html){:target="\_blank"}。
