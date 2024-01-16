@@ -19,7 +19,7 @@ draft: false
 
 公约生效后，缔约国之间的文件流转不再需要经过目的国使领馆认证，仅需由文件制作地的当地外事部门办理附加证明书（Apostille），即可在目的国使用。
 
-目前已知，自 2024 年 1 月 11 日起，中国驻加拿大领事馆不再办理跨国文件的领事认证。在安省、BC 省、阿省、萨省和魁北克，省政府即可办理附加证明书，其它省份则送加拿大外交部办理。从“三级公证”变更为“公证+附加证明书”，全办理周期保守估计可从原先的 2-3 周缩短至 3-5 天。
+目前已知，自 2024 年 1 月 11 日起，中国驻加拿大领事馆不再办理跨国文件的领事认证。在安省、BC 省、阿省、萨省和魁北克，省政府即可办理附加证明书，其它省份则送加拿大外交部办理。以阿省举例，从“三级公证”变更为“公证+附加证明书”，全办理周期保守估计可从原先的 4 周缩短至 1-2 周。
 
 而从国内出来的文件，在公证后交由外交部领事司办理附加证明书即可在加拿大使用。附加证明书样稿如下。
 
@@ -31,7 +31,7 @@ draft: false
 
 我们也将密切关注移民部对申请材料的要求变化，如有更新将及时予以通报。
 
-## 🔗 相关咨询链接
+## 🔗 相关链接
 
 1. [Changes to authentication services in Canada](https://www.international.gc.ca/gac-amc/about-a_propos/services/authentication-authentification/apostille-convention.aspx?lang=eng){:target="\_blank"}
 2. [海牙公约在华生效，简化文书跨国流转手续](https://www.gov.cn/lianbo/bumen/202311/content_6914050.htm){:target="\_blank"}
