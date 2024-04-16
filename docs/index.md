@@ -4,12 +4,13 @@ img.avatar {
   border-radius: 50%;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 	width: 120px;
+	margin-top: 25px;
 }
 
 .undersign-container {
 	display: flex;
 	justify-content: flex-start;
-	align-items: center;
+	align-items: flex-start;
 	/* flex-direction: column; */
 }
 
@@ -69,6 +70,19 @@ img.avatar {
 </div>
 </div>
 
+<div class="undersign-container">
+<img class="avatar" src="assets/img/russ-square.jpg" alt="Avatar">
+
+<div class="text-wrapper">
+<p>Russ Weninger 律师</p>
+
+<p>Russ Weninger 律师毕业于加拿大历史最悠久的法学院之一，Dalhousie 法学院，是加拿大阿尔伯塔省资深移民法律师。Russ 律师在卡尔加里执业多年，曾多次担任律师协会移民法分会负责人，业务领域覆盖从移民申请到上诉和联邦法院司法复查。他多次受邀给律师同行，市政府，和司法部门进行法律培训和业务指导，Russ 律师丰富的移民法执业经验和敬业的工作态度使他成为卡尔加里最受欢迎的移民法律师之一。</p>
+
+<p>Russ 律师酷爱亚洲文化，他选择加盟本所，以帮助来自国内的移民申请者到加拿大安居乐业，实现他们的移民梦想。</p>
+
+</div>
+</div>
+
 ## 本所联系方式
 
 顶誉律师行 （Jade Sunrise Law）
@@ -78,12 +92,11 @@ img.avatar {
 **传真:** [1(844) 272-3932](tel:18442723932)<br>
 **Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
 
-
 ## 官网改版发布
 
-顶誉律师行（Jade Sunrise Law）的官方网站改版已正式发布！想要访问官网的用户，请移步至[www.jadesunriselaw.com](https://www.jadesunriselaw.com/zh){:target="_blank"}。
+顶誉律师行（Jade Sunrise Law）的官方网站改版已正式发布！想要访问官网的用户，请移步至[www.jadesunriselaw.com](https://www.jadesunriselaw.com/zh){:target="\_blank"}。
 
-<!-- 
+<!--
 ## 办公地址
 
 按空格键或刷新页面，显示地图
@@ -91,7 +104,7 @@ img.avatar {
 <div id="map" style="height: 320px"></div>
 <script src="../../assets/js/leaf-map.js"></script>
 
-<script> 
+<script>
 document.addEventListener("keydown", (e)=>{
 	// console.log(e.keyCode);
 	if (e.keyCode == 32 ) document.location.reload()});
