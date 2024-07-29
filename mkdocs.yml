@@ -2,6 +2,9 @@ site_name: 顶誉律师行 - 移民资讯网
 site_url: https://jadeimmigration.netlify.app/
 copyright: 版权所有 &copy; 2023 顶誉律师行
 
+# local serve to a different portal:
+# mkdocs serve -a localhost:8001
+
 nav:
   - 新闻早知道:
       - blog/index.md
