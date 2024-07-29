@@ -27,7 +27,9 @@ nav:
           - 资格条件: RRS/conditions.md
           - 乡村小镇简介: RRS/communities.md
   - 临时签证类:
-      - 旅游、商务签证: temporary/vve.md
+      - 旅游签:
+          - 停留期限及续期办法: temporary/vve.md
+          - 官方释义及要求: blog/posts/2024-06-24-someDefinition.md
       - 工签:
           - 工签到期的处理: temporary/wp-expire.md
           - 留学生校外打工: temporary/offcampus.md
