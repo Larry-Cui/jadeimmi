@@ -8,24 +8,27 @@ copyright: 版权所有 &copy; 2023 顶誉律师行
 nav:
   - 新闻早知道:
       - blog/index.md
-  - 阿省投资移民:
-      - 小镇投资移民:
-          - 项目介绍: RES/intro.md
-          - 入门条件: RES/grid.md
-          - 投资承诺协议: RES/bpa.md
-          - 小镇简介: RES/communities.md
-      - 毕业生创业移民: FGES/intro.md
-  - 阿省技术移民:
-      - 普通项目:
-          - 项目介绍: AOS/intro.md
-          - 合格申请人条件: AOS/eligibility.md
-      - EE项目:
-          - 项目介绍: AEE/intro.md
-          - 资格条件: AEE/eligibility.md
-      - 乡村振兴项目:
-          - 项目介绍: RRS/intro.md
-          - 资格条件: RRS/conditions.md
-          - 乡村小镇简介: RRS/communities.md
+  - 阿省移民项目:
+      - 投资移民:
+          - 小镇投资移民:
+              - 项目介绍: RES/intro.md
+              - 入门条件: RES/grid.md
+              - 投资承诺协议: RES/bpa.md
+              - 小镇简介: RES/communities.md
+          - 毕业生创业移民: FGES/intro.md
+      - 技术移民:
+          - 普通项目:
+              - 项目介绍: AOS/intro.md
+              - 合格申请人条件: AOS/eligibility.md
+          - EE项目:
+              - 项目介绍: AEE/intro.md
+              - 资格条件: AEE/eligibility.md
+          - 乡村振兴项目:
+              - 项目介绍: RRS/intro.md
+              - 资格条件: RRS/conditions.md
+              - 乡村小镇简介: RRS/communities.md
+  - NS省移民项目:
+      - 投资移民: NovaScotia/businessStream.md
   - 临时签证类:
       - 旅游签:
           - 停留期限及续期办法: temporary/vve.md
@@ -138,6 +141,7 @@ extra_css:
   - assets/css/coverpic.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css
   - assets/css/icon.css
+  - assets/css/other.css
 
 extra_javascript:
   - assets/js/mathjax.js
