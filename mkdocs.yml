@@ -8,7 +8,7 @@ copyright: 版权所有 &copy; 2023 顶誉律师行
 nav:
   - 新闻早知道:
       - blog/index.md
-  - 阿省移民项目:
+  - 阿省提名项目:
       - 投资移民:
           - 小镇投资移民:
               - 项目介绍: RES/intro.md
@@ -27,8 +27,10 @@ nav:
               - 项目介绍: RRS/intro.md
               - 资格条件: RRS/conditions.md
               - 乡村小镇简介: RRS/communities.md
-  - NS省移民项目:
+  - NS省提名项目:
       - 投资移民: NovaScotia/businessStream.md
+  - 安省提名项目:
+      - 安省硕博通道: Ontario/master.md
   - 临时签证类:
       - 旅游签:
           - 停留期限及续期办法: temporary/vve.md
