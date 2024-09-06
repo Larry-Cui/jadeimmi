@@ -136,6 +136,8 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra_css:
   - assets/css/styled-table.css
