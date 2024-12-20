@@ -25,9 +25,9 @@ draft: false
 
 ### 资产购买:
 
-在资产购买中，买方收购特定资产，如设备(equipment)、库存(inventory)、知识产权(intellectual property)，同时明确承接或不承接部分债务(liabilities)。资产买卖在简单的生意类型中较为常见，通常适用于卖方/原经营主体与用于经营的资产没有紧密联系的情形。
+在资产购买中，买方收购与经营有关的特定资产，如设备(equipment)、原材料(materials)、库存品(inventory)、知识产权(intellectual property)，同时明确承接或不承接部分债务(liabilities)。资产买卖在简单的生意类型中较为常见，通常适用于卖方/原经营主体与经营所需资产没有紧密联系的情形。
 
-如果某项生意中有保证业务开展的关键性“资产”，比如重要的经营执照(licenses)、许可证(permits)等，则应当在买卖合同中约定必须确保转让给买方/新经营主体。对业务有重大影响的合同(contracts)，也应在买卖谈判中一并约定，是否及如何由买方/新经营主体来承继。
+如果某项生意中，有开展业务所需的关键性“资产”，比如重要的经营执照(licenses)、许可证(permits)等，则应当在买卖合同中约定必须确保转让给买方/新经营主体。对业务有重大影响的合同(contracts)，也应在买卖谈判中一并约定，是否及如何由买方/新经营主体来承继。
 
 ### 股份购买:
 
@@ -75,3 +75,19 @@ draft: false
 在阿省进行项目法律尽职调查，应当包括但不限于如下项目：
 
 [BDC: Buying a business? How to protect yourself from potential liabilities](https://www.bdc.ca/en/articles-tools/start-buy-business/buy-business/owner-liability){:target="\_blank"}
+
+In general, no, you are not liable for a seller's customers if you purchase a business's assets, but there are some exceptions:
+
+Asset purchase
+
+When you purchase a company's assets, such as inventory or equipment, you are not responsible for the company's liabilities, unless you choose to assume them. This is because you are not buying the company itself, so you are not taking on its obligations.
+
+Exceptions
+
+However, there are some exceptions to this rule, and courts have identified certain circumstances where the buyer may be held liable. These exceptions can vary by jurisdiction, but may include:
+
+- Statutes: Some statutes, such as the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (CERCLA) and the Employee Retirement Income Security Act of 1974 (ERISA), can impose successor liability on buyers.
+- Common law: Common law may also stipulate that the buyer is liable for the seller's conduct before the closing date.
+- Buyer's choice: The buyer may choose to expressly assume liability for certain conduct of the seller before the closing date.
+
+To protect yourself from potential liabilities, you can properly structure the transaction and conduct thorough due diligence before the purchase.
