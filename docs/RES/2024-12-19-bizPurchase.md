@@ -17,7 +17,7 @@ draft: false
 
 <!--more-->
 
-买卖生意、收购企业需要考虑若干法律和财务问题，这一点在阿省和其它省份都一样。为了降低风险并确保买卖交割顺利进行，买方需要从架构方案、交易条款、标的尽调等方面做好充足的工作。本文就上述几个方面，简单介绍工作要点如下。
+买卖生意、收购企业需要考虑若干法律和财务问题，这一点在阿省和其它省份都一样。为了降低风险并确保买卖交割顺利进行，买方需要从架构方案、交易条款、标的尽调等方面做好充足的工作。本文就上述几个方面，简单介绍律师工作要点如下。
 
 ## 交易结构: 资产购买与股份购买
 
@@ -119,21 +119,3 @@ draft: false
 如果收购标的，属于以特许经营模式运营的项目，买方需仔细审查特许经营协议。绝大多数的特许经营协议要求，当经营者转让项目时，需要征得特许人的同意，否则特许人有权提前终止特许经营协议。
 
 买方应当仔细核实协议内容，如果发现类似条款，则应当在买卖合同谈判时，就把取得特许人的转让同意，作为项目交易的前提条款之一。同时，针对特许经营协议项下的被授权人的责任，买卖双方还应当约定清楚各自的责任范围。
-
-[BDC: Buying a business? How to protect yourself from potential liabilities](https://www.bdc.ca/en/articles-tools/start-buy-business/buy-business/owner-liability){:target="\_blank"}
-
-In general, no, you are not liable for a seller's customers if you purchase a business's assets, but there are some exceptions:
-
-Asset purchase
-
-When you purchase a company's assets, such as inventory or equipment, you are not responsible for the company's liabilities, unless you choose to assume them. This is because you are not buying the company itself, so you are not taking on its obligations.
-
-Exceptions
-
-However, there are some exceptions to this rule, and courts have identified certain circumstances where the buyer may be held liable. These exceptions can vary by jurisdiction, but may include:
-
-- Statutes: Some statutes, such as the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (CERCLA) and the Employee Retirement Income Security Act of 1974 (ERISA), can impose successor liability on buyers.
-- Common law: Common law may also stipulate that the buyer is liable for the seller's conduct before the closing date.
-- Buyer's choice: The buyer may choose to expressly assume liability for certain conduct of the seller before the closing date.
-
-To protect yourself from potential liabilities, you can properly structure the transaction and conduct thorough due diligence before the purchase.
