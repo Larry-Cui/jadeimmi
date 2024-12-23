@@ -47,7 +47,7 @@ nav:
       - PR持有人的居留义务: articles/RO.md
       - CLB 级别与语言考试成绩对照表: articles/clb-chart.md
   - 预约咨询:
-      - 联系方式: index.md
+      - 本所介绍: index.md
       - 免责声明: about/disclaimer.md
 
 theme:
@@ -134,12 +134,16 @@ markdown_extensions:
   - pymdownx.tilde
   - md_in_html
   - def_list
+  - md_in_html
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
   - assets/css/styled-table.css

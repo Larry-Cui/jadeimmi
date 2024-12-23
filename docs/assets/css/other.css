@@ -33,3 +33,9 @@
 	padding-left: 1em;
 	margin: 0 auto;
 }
+
+/* grid cards multiple columns */
+
+.md-typeset .grid {
+	grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+}
