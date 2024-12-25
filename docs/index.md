@@ -1,40 +1,6 @@
 <style>
-
-img.avatar {
-  /* border-radius: 50%; */
-  /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); */
-	width: 100%;
-	margin-top: 25px;
-}
-
-.undersign-container {
-	display: flex;
-	justify-content: flex-start;
-	align-items: flex-start;
-	/* flex-direction: column; */
-}
-
-.text-wrapper {
-	padding: 0 1rem;
-	color: #777;
-}
-
-.kathySayHello {
-	background: #E6E6FA44;
-	padding: 0.5rem;
-}
-
-@media (max-width: 700px) {
-.undersign-container {
-	align-items: flex-start;
-}
-.text-wrapper {
-	padding-right: 0;
-} 
-img.avatar {
-	width: 100%;
-	/* translate: 0 1rem; */
-}
+.md-grid {
+	max-width: 1400px;
 }
 </style>
 
@@ -108,112 +74,61 @@ img.avatar {
 
 ## 合作客户
 
-<div class="container">
-<div class="activity">
-<div class="text">
-<p>加拿大律协阿省分会</p>
-<p>领导力发展委员会委员</p>
-</div>
-<div class="grid-wrapper">
-<div class="logos">
-<img
-style="width: 180pt"
-src="social logos/CBA_ALTA_HOR_Eng_CMYK_cropped_275x90.png"
-alt="Law Society Alberta"
-/>
-</div>
-</div>
-</div>
-<div class="activity">
-<div class="text">
-<p>常年法律顾问/公益法律讲座</p>
-</div>
-<div class="grid-wrapper">
-<div class="logos">
-<img
-style="width: 180pt"
-src="social logos/FAM-Calgary.png"
-alt="卡尔加里中领馆"
-/>
-</div>
-<div class="logos">
-<img
-style="width: 130pt"
-src="social logos/ISC.svg"
-alt="Immigration Service"
-/>
-</div>
-<div class="logos">
-<img
-style="width: 150pt"
-src="social logos/ciwa-logo.svg"
-alt="CIWA"
-/>
-</div>
-<div class="logos">
-<img
-style="width: 150pt"
-src="social logos/newcomers.webp"
-alt="Newcomers"
-/>
-</div>
-<div class="logos">
-<img
-style="width: 200pt"
-src="social logos/Divercities.webp"
-alt="Divercities"
-/>
-</div>
-</div>
-</div>
-<div class="activity">
-<div class="text">
-<p>协会成员</p>
-</div>
-<div class="grid-wrapper">
-<div class="logos">
-<img
-style="width: 90pt"
-src="social logos/CPEAC-logo.png"
-alt="CPEAC-logo"
-/>
-</div>
-<div class="logos">
-<img style="width: 180pt" src="social logos/CCCA.png" alt="CCCA" />
-</div>
-<div class="logos">
-<img
-style="width: 100pt"
-src="social logos/HKCBA.png"
-alt="HKCBA"
-/>
-</div>
-</div>
-</div>
-<div class="activity">
-<div class="text">
-<p>公益赞助</p>
-</div>
-<div class="grid-wrapper">
-<div class="logos">
-<img
-style="width: 150pt"
-src="social logos/scholarship.png"
-alt="ecssen"
-/>
-</div>
-<div class="logos">
-<img
-style="width: 150pt"
-src="social logos/golf.png"
-alt="RBC Golf"
-/>
-</div>
-<div class="logos">
-<img style="width: 200pt" src="social logos/ACCT.png" alt="ACCT" />
-</div>
-</div>
-</div>
+<div class="grid cards" markdown>
+
+- <img
+  style="width: 180pt"
+  src="../assets/social logos/CBA_ALTA_HOR_Eng_CMYK_cropped_275x90.png"
+  alt="Law Society Alberta"
+  />
+- <img
+  style="width: 180pt"
+  src="../assets/social logos/FAM-Calgary.png"
+  alt="卡尔加里中领馆"
+  />
+- <img
+  style="width: 130pt"
+  src="../assets/social logos/ISC.svg"
+  alt="Immigration Service"
+  />
+- <img
+  style="width: 150pt"
+  src="../assets/social logos/ciwa-logo.svg"
+  alt="CIWA"
+  />
+- <img
+  style="width: 150pt"
+  src="../assets/social logos/newcomers.webp"
+  alt="Newcomers"
+  />
+- <img
+  style="width: 200pt"
+  src="../assets/social logos/Divercities.webp"
+  alt="Divercities"
+  />
+- <img
+  style="width: 90pt"
+  src="../assets/social logos/CPEAC-logo.png"
+  alt="CPEAC-logo"
+  />
+- <img style="width: 180pt" src="../assets/social logos/CCCA.png" alt="CCCA" />
+- <img
+  style="width: 100pt"
+  src="../assets/social logos/HKCBA.png"
+  alt="HKCBA"
+  />
+- <img
+  style="width: 150pt"
+  src="../assets/social logos/scholarship.png"
+  alt="ecssen"
+  />
+- <img
+  style="width: 150pt"
+  src="../assets/social logos/golf.png"
+  alt="RBC Golf"
+  />
+- <img style="width: 200pt" src="../assets/social logos/ACCT.png" alt="ACCT" />
+
 </div>
 
 ## 团队成员
@@ -244,7 +159,7 @@ alt="RBC Golf"
 
       ---
 
-      <img class="avatar" src="assets/img/Grace-square-big.jpg" alt="Avatar">
+      <img class="avatar" style="width: 100%" src="assets/img/Grace-square-big.jpg" alt="Avatar">
 
       关馨律师拥有中国法律硕士学位，曾任职于一家大型跨国企业法律部多年，拥有丰富的工作经验和卓越的客户沟通能力。
 
@@ -294,14 +209,29 @@ alt="RBC Golf"
 <p>我们希望通过扎实的业务和真诚的服务，为申请人量身定制最适合的移民方案，助力您在移民之路上行稳致远，顺利抵达梦想的彼岸。</p>
 </div> -->
 
-## 本所联系方式
+## 顶誉律师行 (Jade Sunrise Law) 联系方式
 
-顶誉律师行 （Jade Sunrise Law）
+<div class="grid cards" markdown>
 
-**地址:** 500-1110 Centre Street NE Calgary, AB T2E 2R2 <br>
-**电话:** [1 (403) 456-3977](tel:14034563977)<br>
-**传真:** [1(844) 272-3932](tel:18442723932)<br>
-**Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
+- **卡尔加里办公室**
+
+      ---
+
+      **地址:** 500-1110 Centre Street NE Calgary, AB T2E 2R2 <br>
+      **电话:** [1 (403) 456-3977](tel:14034563977)<br>
+      **传真:** [1(844) 272-3932](tel:18442723932)<br>
+      **Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
+
+- **埃德蒙顿办公室**
+
+      ---
+
+      **地址:** 10060 Jasper Ave, Tower 1, Suite 2020, Edmonton, AB T5J 3R8
+      **电话:** [1 (403) 456-3977](tel:14034563977)<br>
+      **传真:** [1(844) 272-3932](tel:18442723932)<br>
+      **Email:** edmonton@jadesunriselaw.com
+
+</div>
 
 ## 官网改版发布
 

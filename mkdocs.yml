@@ -46,7 +46,7 @@ nav:
       - 海牙送达公约在国内的适用: articles/HagueService.md
       - PR持有人的居留义务: articles/RO.md
       - CLB 级别与语言考试成绩对照表: articles/clb-chart.md
-  - 预约咨询:
+  - 关于我们:
       - 本所介绍: index.md
       - 免责声明: about/disclaimer.md
 
@@ -87,20 +87,21 @@ theme:
   favicon: jade_logo.png
 
   features:
-    # - navigation.sections
     - navigation.tabs
     - navigation.instant # without fully reloading the page, fast loading function
     - navigation.tracking
-    - navigation.path
-    # - navigation.indexes ##enable it if you have an introduction to top level
     - navigation.top
-    - header.autohide
+    - navigation.path
+    - navigation.prune
     - navigation.footer
+    - header.autohide
     - search.highlight
     - search.share
     - search.suggest
     - content.code.annotate
     - content.code.copy
+    # - navigation.indexes ##enable it if you have an introduction to top level
+    # - navigation.sections
 
 extra:
   social:
@@ -134,7 +135,6 @@ markdown_extensions:
   - pymdownx.tilde
   - md_in_html
   - def_list
-  - md_in_html
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.arithmatex:
