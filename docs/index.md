@@ -226,7 +226,7 @@
 
       ---
 
-      **地址:** 10060 Jasper Ave, Tower 1, Suite 2020, Edmonton, AB T5J 3R8
+      **地址:** 10060 Jasper Ave, Tower 1, Suite 2020, Edmonton, AB T5J 3R8<br>
       **电话:** [1 (403) 456-3977](tel:14034563977)<br>
       **传真:** [1(844) 272-3932](tel:18442723932)<br>
       **Email:** edmonton@jadesunriselaw.com
