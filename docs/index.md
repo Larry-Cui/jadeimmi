@@ -106,6 +106,116 @@ img.avatar {
 
 </div>
 
+## 合作客户
+
+<div class="container">
+<div class="activity">
+<div class="text">
+<p>加拿大律协阿省分会</p>
+<p>领导力发展委员会委员</p>
+</div>
+<div class="grid-wrapper">
+<div class="logos">
+<img
+style="width: 180pt"
+src="social logos/CBA_ALTA_HOR_Eng_CMYK_cropped_275x90.png"
+alt="Law Society Alberta"
+/>
+</div>
+</div>
+</div>
+<div class="activity">
+<div class="text">
+<p>常年法律顾问/公益法律讲座</p>
+</div>
+<div class="grid-wrapper">
+<div class="logos">
+<img
+style="width: 180pt"
+src="social logos/FAM-Calgary.png"
+alt="卡尔加里中领馆"
+/>
+</div>
+<div class="logos">
+<img
+style="width: 130pt"
+src="social logos/ISC.svg"
+alt="Immigration Service"
+/>
+</div>
+<div class="logos">
+<img
+style="width: 150pt"
+src="social logos/ciwa-logo.svg"
+alt="CIWA"
+/>
+</div>
+<div class="logos">
+<img
+style="width: 150pt"
+src="social logos/newcomers.webp"
+alt="Newcomers"
+/>
+</div>
+<div class="logos">
+<img
+style="width: 200pt"
+src="social logos/Divercities.webp"
+alt="Divercities"
+/>
+</div>
+</div>
+</div>
+<div class="activity">
+<div class="text">
+<p>协会成员</p>
+</div>
+<div class="grid-wrapper">
+<div class="logos">
+<img
+style="width: 90pt"
+src="social logos/CPEAC-logo.png"
+alt="CPEAC-logo"
+/>
+</div>
+<div class="logos">
+<img style="width: 180pt" src="social logos/CCCA.png" alt="CCCA" />
+</div>
+<div class="logos">
+<img
+style="width: 100pt"
+src="social logos/HKCBA.png"
+alt="HKCBA"
+/>
+</div>
+</div>
+</div>
+<div class="activity">
+<div class="text">
+<p>公益赞助</p>
+</div>
+<div class="grid-wrapper">
+<div class="logos">
+<img
+style="width: 150pt"
+src="social logos/scholarship.png"
+alt="ecssen"
+/>
+</div>
+<div class="logos">
+<img
+style="width: 150pt"
+src="social logos/golf.png"
+alt="RBC Golf"
+/>
+</div>
+<div class="logos">
+<img style="width: 200pt" src="social logos/ACCT.png" alt="ACCT" />
+</div>
+</div>
+</div>
+</div>
+
 ## 团队成员
 
 <div class="grid cards" markdown>
