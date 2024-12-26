@@ -141,7 +141,7 @@
 
       <img  lass="avatar" src="/assets/img/kathy.jpg" alt="Avatar">
 
-      <details><summary>了解更多</summary>
+      <details class="quote"><summary>了解更多</summary>
 
       张红倩律师，毕业于中国顶级法学院，并获得香港大学普通法硕士学位和加拿大达尔豪斯大学法学硕士学位。张律师曾在深圳市中级人民法院担任法官，审理商事和民事纠纷。
 
@@ -155,7 +155,7 @@
 
       <img class="avatar" src="assets/img/russ-square.jpg" alt="Avatar">
 
-      <details><summary>了解更多</summary>
+      <details class="quote"><summary>了解更多</summary>
 
       Russ Weninger 律师，毕业于加拿大历史最悠久的法学院之一， Dalhousie 法学院，是加拿大阿尔伯塔省资深移民法律师。Russ 律师在卡尔加里执业多年，曾多次担任律师协会移民法分会负责人，业务领域覆盖从移民申请到上诉和联邦法院司法复查。
 
@@ -170,7 +170,7 @@
       <img class="avatar" style="width: 100%" src="assets/img/Grace-square-big.jpg" alt="Avatar">
 
 
-      <details ><summary>了解更多</summary>
+      <details class="quote"><summary>了解更多</summary>
 
       关馨律师拥有中国法律硕士学位，曾任职于一家大型跨国企业法律部多年，拥有丰富的工作经验和卓越的客户沟通能力。
 
@@ -185,7 +185,7 @@
       <img class="avatar" src="assets/img/larry-square-big.jpg" alt="Avatar">
 
 
-      <details><summary>了解更多</summary>
+      <details class="quote"><summary>了解更多</summary>
 
       崔肖龙本科就读于北京大学法律系;研究生就读于加拿大多伦多大学。崔肖龙持有中国内地职业律师证书，在国内从事多年的律师工作，并先后在若干知名企业担任公司法务。
 
@@ -200,7 +200,7 @@
       <img class="avatar" src="assets/img/sophie-square-big.jpg" alt="Avatar">
 
 
-      <details><summary>了解更多</summary>
+      <details class="quote"><summary>了解更多</summary>
 
       本科毕业于吉林大学法学院并获得法学学士学位; 研究生就读于英国杜伦大学并获得法学硕士学位。Sophie Ning持有中国执业律师证书，具有丰富的诉讼/非诉律师经验，并具有中国境内多家大型跨国公司法务工作经验。
 
