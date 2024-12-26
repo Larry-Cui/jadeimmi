@@ -139,13 +139,15 @@
 
       ---
 
-      <img class="avatar" src="/assets/img/kathy.jpg" alt="Avatar">
+      <img  lass="avatar" src="/assets/img/kathy.jpg" alt="Avatar">
 
-
+      <details><summary>了解更多</summary>
 
       张红倩律师，毕业于中国顶级法学院，并获得香港大学普通法硕士学位和加拿大达尔豪斯大学法学硕士学位。张律师曾在深圳市中级人民法院担任法官，审理商事和民事纠纷。
 
       张律师是加拿大为数极少的在中加两地均具有多年工作经验的律师，尤其是她在中国担任法官职务的经历让她具有成熟的法律思维，可以从司法裁决者的视角分析法律问题，具有极强的解决复杂法律问题的能力，是阿尔伯塔少有的能为您提供中加跨境法律服务的资深律师。
+
+      </details>
 
 - **Russ Weninger 律师**
 
@@ -153,9 +155,13 @@
 
       <img class="avatar" src="assets/img/russ-square.jpg" alt="Avatar">
 
+      <details><summary>了解更多</summary>
+
       Russ Weninger 律师，毕业于加拿大历史最悠久的法学院之一， Dalhousie 法学院，是加拿大阿尔伯塔省资深移民法律师。Russ 律师在卡尔加里执业多年，曾多次担任律师协会移民法分会负责人，业务领域覆盖从移民申请到上诉和联邦法院司法复查。
 
       他多次受邀给律师同行、市政府和司法部门进行法律培训和业务指导，Russ 律师丰富的移民法执业经验和敬业的工作态度使他成为卡尔加里最受欢迎的移民法律师之一。
+
+      </details>
 
 - **关馨律师**
 
@@ -163,9 +169,14 @@
 
       <img class="avatar" style="width: 100%" src="assets/img/Grace-square-big.jpg" alt="Avatar">
 
+
+      <details ><summary>了解更多</summary>
+
       关馨律师拥有中国法律硕士学位，曾任职于一家大型跨国企业法律部多年，拥有丰富的工作经验和卓越的客户沟通能力。
 
       关律师自2017年加盟顶誉律师行，目前负责事务所移民相关事务，以及涉及中加两地的国际公证认证业务。经过多年的工作理解，关律师与各级政府部门建立了良好的工作关系，已协助数千客户完成了移民及公证认证工作。
+
+      </details>
 
 - **崔肖龙**
 
@@ -173,9 +184,14 @@
 
       <img class="avatar" src="assets/img/larry-square-big.jpg" alt="Avatar">
 
+
+      <details><summary>了解更多</summary>
+
       崔肖龙本科就读于北京大学法律系;研究生就读于加拿大多伦多大学。崔肖龙持有中国内地职业律师证书，在国内从事多年的律师工作，并先后在若干知名企业担任公司法务。
 
       崔肖龙于2023年5月加入顶誉律师行的团队，目前作为律师助理， 主要协助本所律师提供移民法、房地产及公司法务等方面的支持工作。
+
+      </details>
 
 - **Sophie Ning**
 
@@ -183,9 +199,14 @@
 
       <img class="avatar" src="assets/img/sophie-square-big.jpg" alt="Avatar">
 
+
+      <details><summary>了解更多</summary>
+
       本科毕业于吉林大学法学院并获得法学学士学位; 研究生就读于英国杜伦大学并获得法学硕士学位。Sophie Ning持有中国执业律师证书，具有丰富的诉讼/非诉律师经验，并具有中国境内多家大型跨国公司法务工作经验。
 
       Sophie Ning 目前在顶誉律师行担任律师助理一职，主要协助本所律师提供移民法、家庭法及诉讼等方面的支持工作。
+
+      </details>
 
 </div>
 
