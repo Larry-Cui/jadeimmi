@@ -1,6 +1,6 @@
 <style>
 .md-grid {
-	max-width: 1400px;
+	max-width: 1600px;
 }
 </style>
 
