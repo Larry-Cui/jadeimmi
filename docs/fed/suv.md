@@ -47,7 +47,7 @@ draft: false
 
 ### 最低安置资金
 
-安置资金是指用于投资人和其家属来到加拿大以后，用于生活开支的资金，而不是指创业投资资金。
+安置资金是指投资人及其家属来到加拿大以后，用于生活开支的资金，而不是指创业投资资金。
 
 <table class="styled-table">
 <thead>
@@ -98,7 +98,7 @@ draft: false
 
 [PR Portal](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/pr-portal.html){:target="\_blank" .md-button .md-button--primary }
 
-投资人需要通过 IRCC 的上述 PR 申请官方网站建立账号提交所需文件。文件清单可以参考 [Document Checklist: Start up Business Class [IMM 5760]](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5760.html){:target="\_blank"}。
+投资人需要通过 IRCC 的上述 PR 申请入口，建立账号，提交所需文件。所需文件清单可以参考 [Document Checklist: Start up Business Class [IMM 5760]](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5760.html){:target="\_blank"}。
 
 !!! note "联合投资人"
 
@@ -130,13 +130,13 @@ draft: false
 <table class="styled-table">
 <thead>
 <tr>
-<th scope="col">工签关键内容</th>
+<th scope="col">工签内容</th>
 <th scope="col">填写信息</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>工签类型</td>
+<td>类型</td>
 <td>开放工签/Open Work Permit</td>
 </tr>
 <tr>
