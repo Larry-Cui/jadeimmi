@@ -13,6 +13,9 @@ draft: false
 
 # 联邦创业投资项目(SUV)简介
 
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOlZdE57ccwzWu3EoUj0sC4iun_xENdtQfdgZ4SxDwz19OEKxUe8BanZF5AIbrb3ot6PkBOe6GRNBGyq2TCIU-3uyuct1jnWyHUT8MzVRvrwu2Bnzo=w2400" style="width: 100%"/>
+
+
 关于本项目的 IRCC 官网介绍，请见[此链接](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html){:target="\_blank"}。
 
 ## 申请人条件
